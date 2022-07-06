@@ -1,3 +1,5 @@
+# This is from https://github.com/deu30303/RUC/blob/master/randaugment.py
+
 import random
 import numpy as np
 import PIL
